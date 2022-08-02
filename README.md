@@ -17,7 +17,9 @@ They'd like a data engineer to model the data by creating tables in Apache Cassa
 ## Project Steps
 
 1- Processing of the event_datafile_new.csv dataset to create a denormalized dataset
+
 2- Modeling the data tables keeping in mind the queries needed to run
+
 3- Loading the data into tables created in Apache Cassandra and running the queries
 
 
